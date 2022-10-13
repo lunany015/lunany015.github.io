@@ -1,6 +1,23 @@
-// WARNING! This file contains some subset of JS that is not supported by type inference.
-// You can try checking 'Transpile to ES5' checkbox if you want the types to be inferred
-'use strict';
+/* ================================================================================================
+
+    Peringatan !
+
+===================================================================================================
+
+    Mengubah / Menghapus file javascript (js) ini dapat mengakibatkan :
+
+    1. Kerusakan / error pada template
+    2. Menghilangkan fungsi update / perbaikan otomatis pada template
+    3. Tidak akan mendapatkan support / bantuan dari kreator template
+
+    Terima kasih sudah menggunakan karya saya. :)
+
+    Salam,
+    KangRian.NET
+
+    Terakhir Diperbarui : 1/6/2022 @ 14:41
+
+================================================================================================ */
 var _0x173287 = _0x4917;
 (function(groupingFunction, data) {
   var toMonths = _0x4917;
