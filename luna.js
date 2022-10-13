@@ -1373,4 +1373,4 @@ function get_url_parameter(filter, name) {
   }
   return decodeURIComponent(subject[2][capitalize(321)](/\+/g, " "));
 }
-;
+
